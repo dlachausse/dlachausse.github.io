@@ -7,4 +7,4 @@
 
 ---
 
-*Contact me at dlachausse AT gmail.com*
+*Connect with me on [LinkedIn](www.linkedin.com/in/darren-lachausse) or email  me at dlachausse AT gmail.com*
