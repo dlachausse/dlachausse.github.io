@@ -2,5 +2,6 @@ theme: jekyll-theme-hacker
 title: darren.lachausse
 description: Darren LaChausse's homepage and software projects
 github:
-  is_project_page: false
+  repository_url: https://github.com/dlachausse
+
 
